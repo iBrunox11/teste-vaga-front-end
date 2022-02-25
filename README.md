@@ -79,7 +79,7 @@ Vamos receber e fazer a avaliação de todos.
 
 **Email para contato**: recrutamento@binds.co
 
-**Assunto**: Desenvolvedor front-end júnior
+**Assunto**: Front-end júnior
 
 **Obs**: Deixe o repositório como "público".
   
